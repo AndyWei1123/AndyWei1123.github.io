@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://AndyWei1123.github.io/sitemap.xml
