@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>交易策略 on 七仔札記</title>
+    <link>http://AndyWei1123.github.io/tags/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/</link>
+    <description>Recent content in 交易策略 on 七仔札記</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>七仔</copyright>
+    <lastBuildDate>Mon, 14 Mar 2022 00:00:55 +0000</lastBuildDate><atom:link href="http://AndyWei1123.github.io/tags/%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>幣圈瘋狗流(2)，兩天賺 92% 到底該左側還是右側交易？｜七仔札記</title>
+      <link>http://AndyWei1123.github.io/post/cryptotrade2/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:55 +0000</pubDate>
+      
+      <guid>http://AndyWei1123.github.io/post/cryptotrade2/</guid>
+      <description>續上一篇，為了讓我的策略能夠更加簡單，不用自己去盯盤，如果要自己去盯盤那幹嘛不用槓桿網格就好？因此我就在思考如果訂單一多，甚至我要分批進場，</description>
+    </item>
+    
+    <item>
+      <title>幣圈瘋狗流為什麼有用？(目前還在測試中，目前勝率 80%)｜七仔札記</title>
+      <link>http://AndyWei1123.github.io/post/cryptotrade1/</link>
+      <pubDate>Mon, 14 Mar 2022 00:00:50 +0000</pubDate>
+      
+      <guid>http://AndyWei1123.github.io/post/cryptotrade1/</guid>
+      <description>(圖：實際操作獲利，未平倉時) 加密貨幣有著「幣圈一天，人間一年」的恐怖傳說，在還沒踏進來之前我也是覺得幣圈好可怕，萬一買到垃圾幣怎麼辦？不想</description>
+    </item>
+    
+  </channel>
+</rss>
